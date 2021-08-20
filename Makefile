@@ -4,7 +4,7 @@ fetch:
 
 .PHONY:
 clean:
-	rm qemu* test/*
+	rm qemu* test/main test/main.arm test/main.s390x test/main.ppc64le
 
 .PHONY:
 install:
