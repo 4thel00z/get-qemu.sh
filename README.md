@@ -27,6 +27,12 @@ If you want to run the tests, do:
 make test-all
 ```
 
+If you want to download a specific version of qemu, you can also invoke `fetch.sh` yourself and pass the version as an argument:
+
+```
+./fetch.sh v6.0.4
+```
+
 ## License
 
 This project is licensed under the GPL-3 license.
