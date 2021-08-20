@@ -21,7 +21,7 @@ make
 make install
 ```
 
-If you want to run the tests, do:
+If you want to run the tests (needs a go toolchain!), do:
 
 ```
 make test-all
