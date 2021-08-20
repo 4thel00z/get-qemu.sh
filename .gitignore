@@ -1,2 +1,6 @@
 qemu-*-static
-test
+test/main
+test/main.s390x
+test/main.ppc64le
+test/main.arm
+
